@@ -8,7 +8,7 @@
     $query = "select * from Courses";
     $results = mysqli_query($con, $query);
 
-
+     //welcome to shiraz
     // load data in select option
     $select = "select * from courses ";
 
